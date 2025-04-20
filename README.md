@@ -19,6 +19,9 @@ A aplicação foi construída utilizando as seguintes tecnologias:
 Clone o repositório e instale as dependências:
 
 git clone git@github.com:Kayquess/Teste-Kayque-Silva.git
+
 cd Teste-Kayque-Silva
+
 npm install
+
 npm start
