@@ -1,0 +1,18 @@
+[
+    {
+      "id": "working",
+      "name": "Trabalhando",
+      "code": "WK"
+    },
+    {
+      "id": "idle",
+      "name": "Parado",
+      "code": "ID"
+    },
+    {
+      "id": "maintenance",
+      "name": "Manutenção",
+      "code": "MT"
+    }
+  ]
+  

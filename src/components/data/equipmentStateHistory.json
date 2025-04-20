@@ -1,0 +1,15 @@
+[
+    {
+      "equipmentId": "1",
+      "stateId": "working",
+      "timestamp": "2025-04-18T14:30:00Z",
+      "code": "WK"
+    },
+    {
+      "equipmentId": "2",
+      "stateId": "idle",
+      "timestamp": "2025-04-18T14:35:00Z",
+      "code": "ID"
+    }
+  ]
+  

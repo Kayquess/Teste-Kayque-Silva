@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "name": "Trator A",
+      "modelId": "M1",
+      "code": "TR-A"
+    },
+    {
+      "id": "2",
+      "name": "Colheitadeira B",
+      "modelId": "M2",
+      "code": "CH-B"
+    }
+  ]
+  
