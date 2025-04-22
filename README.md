@@ -13,6 +13,7 @@ A aplicação foi construída utilizando as seguintes tecnologias:
 - **Chart.js** (usando `chart.js-2`) para visualização de gráficos
 - **Zustand** para gerenciamento de estado
 - **Axios** para chamadas HTTP e integração com APIs externas
+- Leaflet para visualização de mapas interativos e geolocalização de equipamentos
 
 ## 💻 Como rodar o projeto
 
