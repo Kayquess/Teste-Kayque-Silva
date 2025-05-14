@@ -25,12 +25,4 @@ cd Teste-Kayque-Silva
 
 npm install
 
-npm start
 
-## 🎥 Demonstração em Vídeo
-
-Você pode conferir a demonstração completa do projeto no link abaixo:
-
-🔗 [Clique aqui para assistir ao vídeo](https://drive.google.com/file/d/13tLn7hvo_r-SU8MBBbvIze4-KmIFDJZ3/view?usp=drive_link)
-
-O vídeo mostra o funcionamento da aplicação, principais funcionalidades e fluxo de uso.
