@@ -1,4 +1,4 @@
-# Teste Frontend - Kayque Silva
+# Projeto Frontend - Kayque Silva
 
 Este projeto é uma solução para o desafio técnico proposto pela [Aiko Digital](https://aikodigital.com/). O objetivo foi desenvolver uma aplicação frontend seguindo os requisitos fornecidos no repositório original.
 
