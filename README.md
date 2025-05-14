@@ -1,6 +1,6 @@
 # Projeto Frontend - Kayque Silva
 
-Este projeto é uma solução para o desafio técnico proposto pela [Aiko Digital](https://aikodigital.com/). O objetivo foi desenvolver uma aplicação frontend seguindo os requisitos fornecidos no repositório original.
+Este projeto foi desenvolvido como uma solução para um desafio técnico, com o objetivo de construir uma aplicação frontend seguindo requisitos previamente definidos.
 
 ## 🧠 Sobre a solução
 
